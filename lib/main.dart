@@ -15,19 +15,19 @@ class Contact {
 class ContactListApp extends StatelessWidget {
   final List<Contact> contacts = [
     Contact(
-      name: 'Khalid Ahmad',
-      email: 'khalid_ahmad123@gmail.com',
-      phoneNumber: '01950321456',
+      name: 'Shobuj Ahmad',
+      email: 'shobuj@gmail.com',
+      phoneNumber: '0965439888',
     ),
     Contact(
-      name: 'Arman Akter Sadi',
-      email: 'armanakter@gmail.com',
-      phoneNumber: '01792632514',
+      name: 'Miraz Akter',
+      email: 'miraz@gmail.com',
+      phoneNumber: '0953287679',
     ),
     Contact(
-      name: 'Mihal Kaykobad',
-      email: 'mihal.kaykobad@live.com',
-      phoneNumber: '01592367841',
+      name: 'Faruk Hossain',
+      email: 'faruk@live.com',
+      phoneNumber: '09635789',
     ),
   ];
 
